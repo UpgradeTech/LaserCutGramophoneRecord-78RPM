@@ -2,6 +2,7 @@
 //adapted for 78rpm by UpgradeTech
 //March 2014
 //detailed instructions for using this code at
+//http://www.instructables.com/id/Make-a-Playable-Laser-Cut-Gramophone-Record-from-B/
 //
 //original by Amanda Ghassaei 
 //@ http://www.instructables.com/id/Laser-Cut-Record/

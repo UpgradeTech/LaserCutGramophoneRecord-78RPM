@@ -9,4 +9,5 @@ up to date info about the original project can be found on instructables www.ins
 specific information about running this code can be found here: www.instructables.com/id/Laser-Cut-Record/step7
 
 
-up to date info about the gramophone record project can be found on instructables 
+up to date info about the gramophone record project can be found on instructables
+http://www.instructables.com/id/Make-a-Playable-Laser-Cut-Gramophone-Record-from-B/

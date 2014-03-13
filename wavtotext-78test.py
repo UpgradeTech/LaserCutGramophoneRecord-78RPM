@@ -2,6 +2,13 @@
 #16 bit stereo wav file at 22050hz sampling rate
 #to:
 #16 bit mono wav file at 22050hz sampling rate
+#
+#Ignore the above comments. 
+#They're not entirely correct as there seems to be a bug
+#regarding sampling rate and desired RPM
+#
+#For a full explanation see: http://www.instructables.com/id/Make-a-Playable-Laser-Cut-Gramophone-Record-from-B/#step4
+
 
 import wave
 import math
